@@ -1,0 +1,7 @@
+{
+  "enabled": true,
+  "prefabPath": "/Users/tjha/.gradle/caches/modules-2/files-2.1/com.google.prefab/cli/2.1.0/aa32fec809c44fa531f01dcfb739b5b3304d3050/cli-2.1.0-all.jar",
+  "packages": [
+    "/Users/tjha/.gradle/caches/8.11.1/transforms/e9273c7d8d72025acdc921102fa44ee6/transformed/jetified-hermes-android-0.80.1-debug/prefab"
+  ]
+}

@@ -1,0 +1,47 @@
+buildscript {
+    ext {
+        buildToolsVersion = "35.0.0"
+        minSdkVersion = 24
+        compileSdkVersion = 35
+        targetSdkVersion = 35
+        ndkVersion = "27.1.12297006"
+        kotlinVersion = "1.9.25"
+        androidGradlePluginVersion = "8.8.0" 
+
+    }
+    repositories {
+        
+        google()
+        mavenCentral()
+        gradlePluginPortal()
+
+    }
+    dependencies {
+        
+        classpath("com.android.tools.build:gradle")
+        //  classpath("com.android.tools.build:gradle:$androidGradlePluginVersion") 
+        classpath("com.facebook.react:react-native-gradle-plugin")
+        // classpath("org.jetbrains.kotlin:kotlin-gradle-plugin")
+        classpath 'com.google.gms:google-services:4.4.1'
+        classpath 'com.google.firebase:firebase-crashlytics-gradle:2.9.4'
+        classpath 'com.google.firebase:perf-plugin:1.4.2'
+         classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:1.9.25" 
+        // classpath "org.jetbrains.kotlin:kotlin-android-extensions:1.9.25"
+    }
+}
+
+allprojects {
+    repositories {
+        google()
+        mavenCentral()
+        gradlePluginPortal()
+        maven { url 'https://maven.google.com'}
+        maven { url 'https://github.com/500px/500px-android-blur/raw/master/releases/' }
+        maven { url 'https://jitpack.io' }
+        flatDir {
+            dirs 'libs'
+        }
+    }
+}
+
+apply plugin: "com.facebook.react.rootproject"

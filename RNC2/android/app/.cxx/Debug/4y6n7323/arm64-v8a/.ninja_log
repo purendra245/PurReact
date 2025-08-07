@@ -1,0 +1,6 @@
+# ninja log v5
+12057	26505	1753347268163437878	/Users/tjha/Documents/RNCourses/RNCourseAnd/android/app/build/intermediates/cxx/Debug/4y6n7323/obj/arm64-v8a/libappmodules.so	c045a3d2c3bb1f5b
+56	12057	1753347253693949719	CMakeFiles/appmodules.dir/OnLoad.cpp.o	64c91129e5d18903
+55	11396	1753347253037638688	CMakeFiles/appmodules.dir/Users/tjha/Documents/RNCourses/RNCourseAnd/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	a0502c773e298551
+6858	100776	1754042726483449027	build.ninja	ea745eb411cd2bd3
+1	6144	0	/Users/tjha/Documents/RNCourses/RNCourseAnd/android/app/.cxx/Debug/4y6n7323/arm64-v8a/CMakeFiles/cmake.verify_globs	9e18baeb194d94a9

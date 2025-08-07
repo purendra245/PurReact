@@ -1,0 +1,11 @@
+# ninja log v5
+23899	36291	1753347579844300005	/Users/tjha/Documents/RNCourses/RNCourseAnd/android/app/build/intermediates/cxx/Debug/4y6n7323/obj/x86/libappmodules.so	53f25e17c7da0b6a
+23	23899	1753347567413268180	CMakeFiles/appmodules.dir/OnLoad.cpp.o	9246c81f13b6ce13
+22	22762	1753347566280280763	CMakeFiles/appmodules.dir/Users/tjha/Documents/RNCourses/RNCourseAnd/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	a7b308501a36c85f
+1	6033	0	/Users/tjha/Documents/RNCourses/RNCourseAnd/android/app/.cxx/Debug/4y6n7323/x86/CMakeFiles/cmake.verify_globs	f703eadb549b259f
+6188	85902	1753369025571425622	build.ninja	2eee51b3cb38e500
+0	6033	0	/Users/tjha/Documents/RNCourses/RNCourseAnd/android/app/.cxx/Debug/4y6n7323/x86/CMakeFiles/cmake.verify_globs	f703eadb549b259f
+1	6019	0	/Users/tjha/Documents/RNCourses/RNCourseAnd/android/app/.cxx/Debug/4y6n7323/x86/CMakeFiles/cmake.verify_globs	f703eadb549b259f
+1	6019	0	/Users/tjha/Documents/RNCourses/RNCourseAnd/android/app/.cxx/Debug/4y6n7323/x86/CMakeFiles/cmake.verify_globs	f703eadb549b259f
+1	6028	0	/Users/tjha/Documents/RNCourses/RNCourseAnd/android/app/.cxx/Debug/4y6n7323/x86/CMakeFiles/cmake.verify_globs	f703eadb549b259f
+1	6016	0	/Users/tjha/Documents/RNCourses/RNCourseAnd/android/app/.cxx/Debug/4y6n7323/x86/CMakeFiles/cmake.verify_globs	f703eadb549b259f

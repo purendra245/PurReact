@@ -1,0 +1,159 @@
+{
+  "project_info": {
+    "project_number": "990930868510",
+    "firebase_url": "https://vn-mobility-internal.firebaseio.com",
+    "project_id": "vn-mobility-internal",
+    "storage_bucket": "vn-mobility-internal.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990930868510:android:b3bab3b67ea20d9007910f",
+        "android_client_info": {
+          "package_name": "com.rncourseand"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990930868510-sfmfa71463v0bbepgam85k4lrcb9pf3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQe_8QLvHBUZlDblU5z-DEzzMrSTO5BE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990930868510-sfmfa71463v0bbepgam85k4lrcb9pf3d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "990930868510-l8octnorq1gf271bqhrhrf0g8kn3fr42.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "vn.com.hongleongconnect.holo.uat",
+                "app_store_id": "1463528276"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990930868510:android:6f1bf4331608940907910f",
+        "android_client_info": {
+          "package_name": "vn.com.hongleongconnect.mobile.debug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990930868510-sfmfa71463v0bbepgam85k4lrcb9pf3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQe_8QLvHBUZlDblU5z-DEzzMrSTO5BE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990930868510-sfmfa71463v0bbepgam85k4lrcb9pf3d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "990930868510-l8octnorq1gf271bqhrhrf0g8kn3fr42.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "vn.com.hongleongconnect.holo.uat",
+                "app_store_id": "1463528276"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990930868510:android:d4ff123ceed6e8bb07910f",
+        "android_client_info": {
+          "package_name": "com.rncourseand"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990930868510-sfmfa71463v0bbepgam85k4lrcb9pf3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQe_8QLvHBUZlDblU5z-DEzzMrSTO5BE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990930868510-sfmfa71463v0bbepgam85k4lrcb9pf3d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "990930868510-l8octnorq1gf271bqhrhrf0g8kn3fr42.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rncourseand",
+                "app_store_id": "1463528276"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990930868510:android:a0ecac1003a6788007910f",
+        "android_client_info": {
+          "package_name": "com.rncourseand"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990930868510-sfmfa71463v0bbepgam85k4lrcb9pf3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQe_8QLvHBUZlDblU5z-DEzzMrSTO5BE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990930868510-sfmfa71463v0bbepgam85k4lrcb9pf3d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "990930868510-l8octnorq1gf271bqhrhrf0g8kn3fr42.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rncourseand",
+                "app_store_id": "1463528276"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
